@@ -152,7 +152,7 @@
                             <outputDirectory>${project.build.directory}/cucumber-report-html</outputDirectory>
                             <cucumberOutput>${project.build.directory}/cucumber.json</cucumberOutput>
                         <suiteXmlFiles>
-                            <suiteXmlFile>C:\Users\LIPU\Desktop\Git clone\com.project3.blaze\com.project3.blaze\testng.xml</suiteXmlFile>
+                            <suiteXmlFile>C:\Users\LIPU\eclipse-workspace\com.project3.blaze\testng.xml</suiteXmlFile>
                         </suiteXmlFiles>
                         </configuration>
                     </execution>

@@ -14,7 +14,11 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
+<<<<<<< HEAD
+ <dependencies>
+=======
   <dependencies>
+>>>>>>> 6a6ed5d943af7bf53e6d8e343a1925ead8004503
 
 		<!-- https://mvnrepository.com/artifact/info.cukes/cucumber-java -->
 		<dependency>
@@ -152,7 +156,11 @@
                             <outputDirectory>${project.build.directory}/cucumber-report-html</outputDirectory>
                             <cucumberOutput>${project.build.directory}/cucumber.json</cucumberOutput>
                         <suiteXmlFiles>
+<<<<<<< HEAD
+                            <suiteXmlFile>C:\Users\LIPU\eclipse-workspace\com.project3.blaze\testng.xml</suiteXmlFile>
+=======
                             <suiteXmlFile>C:\Users\LIPU\Desktop\Git clone\com.project3.blaze\com.project3.blaze\testng.xml</suiteXmlFile>
+>>>>>>> 6a6ed5d943af7bf53e6d8e343a1925ead8004503
                         </suiteXmlFiles>
                         </configuration>
                     </execution>
@@ -166,4 +174,7 @@
   
 </project>
  
+<<<<<<< HEAD
+=======
   
+>>>>>>> 6a6ed5d943af7bf53e6d8e343a1925ead8004503
